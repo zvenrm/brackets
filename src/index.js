@@ -32,3 +32,4 @@ module.exports = function check(str, bracketsConfig) {
   }
   return mas.length === 0;
 }
+/*кк*/
